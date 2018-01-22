@@ -1,0 +1,33 @@
+global:
+  description: Un grupo dirigido a todas las mujeres que estén trabajando o deseen iniciar una carrera en el mundo tecnológico, o simplemente que les interese la tecnología en Galicia.
+aboutS1One:
+  heading: Nuestros objetivos
+  paragraph: Aquí están algunas de las metasss que nos hemos propuesto conseguir, al menos<br /> de momento. Siempre estamos dispuestas a asumir nuevos retos y sumar ideas.
+aboutS1Two:
+  heading: Reconocimiento
+  paragraph: Identificar los problemas de las mujeres a la hora de conectar con la tecnología y encontrar soluciones para los desafíos a los que se enfrentan.
+aboutS1Three:
+  heading: Formación
+  paragraph: Apoyar iniciativas dedicadas a una mejor preparación y especialmente a promocionar el mundo tecnológico entre las miembros más jóvenes de nuestra comunidad.
+aboutS1Four:
+  heading: Referentes
+  paragraph: Divulgar y potenciar el papel de las mujeres en tecnología, buscando referentes y promocionando el valor de estos activos dentro de la empresa.
+aboutS1Five:
+  heading: Comunidad
+  paragrap: Crear un colectivo unido y participativo, una comunidad estratégica donde poder compartir experiencias, consejos, problemas, soluciones, iniciativas y todo lo que necesitemos, en Galicia.
+aboutS2One:
+  heading: ¿Quieres formar parte de<br /> nuestra comunidad?
+  paragraph: Tenemos un canal de Slack donde compartimos nuestras inquietudes, y nos ayudamos en esas pequeñas tonterías del día a día. También organizamos eventos y encuentros GalsTech a través de Meetup.
+  button: Formar parte de la comunidad
+aboutS3One:
+  heading: ¿Quieres ayudar a esta<br /> comunidad?
+  paragraph: Hay muchísimas formas de ayudar y aportar, ponte en contacto con nosotras si te interesa ser patriocinador de GalsTech o tienes una idea genial para echar una mano.
+  button: Contactar GalsTech
+aboutS4One:
+  heading: Ya contamos con ayuda de
+aboutS5One:
+  heading: Formar parte de nuestra comunidad
+  paragraph: Desde aquí puedes unirte al slack y nuestra meetup
+aboutS6One:
+  heading: Para cualquier otra consulta
+  paragraph: puedes mandar un email a <br /> 

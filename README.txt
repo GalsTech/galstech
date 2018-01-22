@@ -59,3 +59,11 @@ Credits:
 		Misc. Sass functions (@HugoGiraudel)
 		Respond.js (j.mp/respondjs)
 		Skel (skel.io)
+
+We are using jekyll-language-plugin to support a multilingual site.
+If you want to support a new language you'll need to follow two steps:
+1. Specify the language in the page:
+   languages:
+   - es
+2. Create a new language.yml at the folder _data/lang. At the moment there is just one es.yml
+
